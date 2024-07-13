@@ -1562,7 +1562,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2024-07-14T16:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1625,10 +1625,10 @@
     {
       "ID": 61,
       "Team1Acronym": "[Crz]Xinyi2016",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "[GB]V1do",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -1642,7 +1642,6 @@
         "[Crz]Xinyi2016",
         "[GB]V1do"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1711,12 +1710,58 @@
     {
       "ID": 70,
       "Team1Acronym": "[Crz]Reimu",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "Shice2566",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4681225
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3742642
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 905136
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4681240
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2898345
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4681213
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4681243
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3910334
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4236474
+        }
+      ],
       "Current": false,
       "Date": "2024-07-13T22:00:00+08:00",
       "ConditionalMatches": [],
@@ -1728,7 +1773,6 @@
         "[Crz]Reimu",
         "Shice2566"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1893,12 +1937,58 @@
     {
       "ID": 86,
       "Team1Acronym": "Akermo",
-      "Team1Score": null,
+      "Team1Score": 2,
       "Team2Acronym": "Samyuan1216",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4236474
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 905136
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3742642
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3527629
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4681225
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4681266
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4417766
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4681243
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4681240
+        }
+      ],
       "Current": false,
       "Date": "2024-07-13T22:00:00+08:00",
       "ConditionalMatches": [],
@@ -1916,12 +2006,53 @@
     {
       "ID": 90,
       "Team1Acronym": "[GB]GanyuAngel",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "lovely_hyahya",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4681225
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3742642
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 905136
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4681266
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4681240
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4681243
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3760854
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4681213
+        }
+      ],
       "Current": false,
       "Date": "2024-07-13T23:00:00+08:00",
       "ConditionalMatches": [],
@@ -1933,19 +2064,18 @@
         "[GB]GanyuAngel",
         "lovely_hyahya"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 94,
       "Team1Acronym": "[GB]mmttyy233",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "rurudo1o1o",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2024-07-13T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1956,7 +2086,6 @@
         "[GB]mmttyy233",
         "rurudo1o1o"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -2020,6 +2149,7 @@
     {
       "ID": 58,
       "Team1Score": null,
+      "Team2Acronym": "[Crz]Xinyi2016",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -2031,13 +2161,16 @@
         "X": 400,
         "Y": 900
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "[Crz]Xinyi2016"
+      ],
       "PointsToWin": 5
     },
     {
       "ID": 67,
       "Team1Acronym": "-Veloce-",
       "Team1Score": null,
+      "Team2Acronym": "[Crz]Reimu",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -2050,7 +2183,8 @@
         "Y": 1140
       },
       "Acronyms": [
-        "-Veloce-"
+        "-Veloce-",
+        "[Crz]Reimu"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
@@ -2079,6 +2213,7 @@
       "ID": 83,
       "Team1Acronym": "nyasunfanboy",
       "Team1Score": null,
+      "Team2Acronym": "Samyuan1216",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -2091,14 +2226,17 @@
         "Y": 1620
       },
       "Acronyms": [
-        "nyasunfanboy"
+        "nyasunfanboy",
+        "Samyuan1216"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 91,
+      "Team1Acronym": "[GB]GanyuAngel",
       "Team1Score": null,
+      "Team2Acronym": "[GB]mmttyy233",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -2110,7 +2248,11 @@
         "X": 400,
         "Y": 1860
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "[GB]GanyuAngel",
+        "[GB]mmttyy233"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -2678,6 +2820,7 @@
     {
       "ID": 60,
       "Team1Score": null,
+      "Team2Acronym": "[GB]V1do",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2689,13 +2832,16 @@
         "X": 2800,
         "Y": 900
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "[GB]V1do"
+      ],
       "PointsToWin": 5
     },
     {
       "ID": 69,
       "Team1Acronym": "Echo_XF",
       "Team1Score": null,
+      "Team2Acronym": "Shice2566",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2708,7 +2854,8 @@
         "Y": 1140
       },
       "Acronyms": [
-        "Echo_XF"
+        "Echo_XF",
+        "Shice2566"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
@@ -2737,6 +2884,7 @@
       "ID": 85,
       "Team1Acronym": "[Paw]FIood",
       "Team1Score": null,
+      "Team2Acronym": "Akermo",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2749,14 +2897,17 @@
         "Y": 1620
       },
       "Acronyms": [
-        "[Paw]FIood"
+        "[Paw]FIood",
+        "Akermo"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 93,
+      "Team1Acronym": "lovely_hyahya",
       "Team1Score": null,
+      "Team2Acronym": "rurudo1o1o",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2768,7 +2919,11 @@
         "X": 2800,
         "Y": 1860
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "lovely_hyahya",
+        "rurudo1o1o"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -5695,7 +5850,7 @@
         },
         {
           "ID": 4681334,
-          "Mods": "TB ",
+          "Mods": "TB",
           "BeatmapInfo": {
             "OnlineID": 4681334,
             "DifficultyName": "[4K] wewewe",
