@@ -1809,7 +1809,7 @@
           "BeatmapID": 4681240
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2024-07-13T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1825,12 +1825,58 @@
     {
       "ID": 82,
       "Team1Acronym": "nyasunfanboy",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "[Paw]FIood",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4681225
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3527629
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2898345
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4417766
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4681266
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4681213
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4236474
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 905136
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3742642
+        }
+      ],
       "Current": false,
       "Date": "2024-07-13T21:00:00+08:00",
       "ConditionalMatches": [],
@@ -1842,7 +1888,6 @@
         "nyasunfanboy",
         "[Paw]FIood"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1900,7 +1945,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2024-07-13T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2032,6 +2077,7 @@
     },
     {
       "ID": 83,
+      "Team1Acronym": "nyasunfanboy",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2044,7 +2090,10 @@
         "X": 400,
         "Y": 1620
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "nyasunfanboy"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -2686,6 +2735,7 @@
     },
     {
       "ID": 85,
+      "Team1Acronym": "[Paw]FIood",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2698,7 +2748,10 @@
         "X": 2800,
         "Y": 1620
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "[Paw]FIood"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
