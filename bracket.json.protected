@@ -1562,6 +1562,36 @@
           "Team": "Red",
           "Type": "Ban",
           "BeatmapID": 905136
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3742642
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4681243
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4417766
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3527629
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2898345
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4236474
         }
       ],
       "Current": false,
@@ -2435,13 +2465,79 @@
     {
       "ID": 50,
       "Team1Acronym": "LiangFenFan",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Mantozi",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 4691329
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4605212
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4691325
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2382593
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3189234
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4674162
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4605212
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4691305
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3760857
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4691329
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2486497
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4691274
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2968850
+        }
+      ],
+      "Current": false,
       "Date": "2024-07-21T13:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2452,7 +2548,6 @@
         "LiangFenFan",
         "Mantozi"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -2554,13 +2649,13 @@
     {
       "ID": 75,
       "Team1Acronym": "Croatian songs",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "[Crz]Riko",
-      "Team2Score": null,
+      "Team2Score": 0,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2024-07-21T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2763,6 +2858,7 @@
     },
     {
       "ID": 54,
+      "Team1Acronym": "LiangFenFan",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2775,7 +2871,10 @@
         "X": 600,
         "Y": 780
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "LiangFenFan"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
@@ -3227,6 +3326,7 @@
     },
     {
       "ID": 76,
+      "Team1Acronym": "Mantozi",
       "Team1Score": null,
       "Team2Acronym": "Shenzouz",
       "Team2Score": null,
@@ -3241,8 +3341,10 @@
         "Y": 1380
       },
       "Acronyms": [
+        "Mantozi",
         "Shenzouz"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
