@@ -2442,12 +2442,68 @@
     {
       "ID": 42,
       "Team1Acronym": "[Crz]Nickname",
-      "Team1Score": null,
+      "Team1Score": 1,
       "Team2Acronym": "[GB]nyasun",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 3760857
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 2382593
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4691305
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3189234
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2382593
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2968850
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3271022
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4635678
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4691329
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3266283
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4674162
+        }
+      ],
       "Current": false,
       "Date": "2024-07-21T16:00:00+08:00",
       "ConditionalMatches": [],
@@ -2553,12 +2609,73 @@
     {
       "ID": 58,
       "Team1Acronym": "tyrcs",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "[Crz]Xinyi2016",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 2382593
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 3266283
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3189234
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4691305
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4635678
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4691309
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2968850
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4691274
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4605212
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3271022
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3266283
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2382593
+        }
+      ],
       "Current": false,
       "Date": "2024-07-21T20:00:00+08:00",
       "ConditionalMatches": [],
@@ -2570,7 +2687,6 @@
         "tyrcs",
         "[Crz]Xinyi2016"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -2649,13 +2765,69 @@
     {
       "ID": 75,
       "Team1Acronym": "Croatian songs",
-      "Team1Score": 0,
+      "Team1Score": 6,
       "Team2Acronym": "[Crz]Riko",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 3189234
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4605212
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2382593
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3760857
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4635678
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3189234
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4605212
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4691274
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3271022
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4691325
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4691305
+        }
+      ],
+      "Current": false,
       "Date": "2024-07-21T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2666,7 +2838,6 @@
         "Croatian songs",
         "[Crz]Riko"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -2839,6 +3010,7 @@
       "ID": 38,
       "Team1Acronym": "Quotient",
       "Team1Score": null,
+      "Team2Acronym": "[GB]nyasun",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -2851,7 +3023,8 @@
         "Y": 300
       },
       "Acronyms": [
-        "Quotient"
+        "Quotient",
+        "[GB]nyasun"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 7
@@ -2860,6 +3033,7 @@
       "ID": 54,
       "Team1Acronym": "LiangFenFan",
       "Team1Score": null,
+      "Team2Acronym": "tyrcs",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -2872,7 +3046,8 @@
         "Y": 780
       },
       "Acronyms": [
-        "LiangFenFan"
+        "LiangFenFan",
+        "tyrcs"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 7
@@ -2881,6 +3056,7 @@
       "ID": 71,
       "Team1Acronym": "-Veloce-",
       "Team1Score": null,
+      "Team2Acronym": "Croatian songs",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -2893,7 +3069,8 @@
         "Y": 1260
       },
       "Acronyms": [
-        "-Veloce-"
+        "-Veloce-",
+        "Croatian songs"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 7
@@ -3269,7 +3446,9 @@
     },
     {
       "ID": 51,
+      "Team1Acronym": "[GB]Burger king",
       "Team1Score": null,
+      "Team2Acronym": "[Crz]Riko",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3281,7 +3460,11 @@
         "X": 2600,
         "Y": 660
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "[GB]Burger king",
+        "[Crz]Riko"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
@@ -3309,7 +3492,9 @@
     },
     {
       "ID": 68,
+      "Team1Acronym": "[Crz]Xinyi2016",
       "Team1Score": null,
+      "Team2Acronym": "Shice2566",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3321,7 +3506,11 @@
         "X": 2600,
         "Y": 1140
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "[Crz]Xinyi2016",
+        "Shice2566"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
@@ -3349,7 +3538,9 @@
     },
     {
       "ID": 84,
+      "Team1Acronym": "[Crz]Nickname",
       "Team1Score": null,
+      "Team2Acronym": "[Paw]FIood",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3361,7 +3552,11 @@
         "X": 2600,
         "Y": 1620
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "[Crz]Nickname",
+        "[Paw]FIood"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
@@ -3559,12 +3754,83 @@
     {
       "ID": 52,
       "Team1Acronym": "[GB]Burger king",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "HxcQ777",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 2382593
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4691309
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4605212
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3271022
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4674162
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3266283
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4691329
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4635678
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4691274
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2968850
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4691325
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2382593
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4691309
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3760857
+        }
+      ],
       "Current": false,
       "Date": "2024-07-21T20:00:00+08:00",
       "ConditionalMatches": [],
@@ -3576,7 +3842,6 @@
         "[GB]Burger king",
         "HxcQ777"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -3604,12 +3869,63 @@
     {
       "ID": 69,
       "Team1Acronym": "Echo_XF",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "Shice2566",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4691274
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 4691305
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4605212
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2382593
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2968850
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3271022
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4691305
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4691329
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2486497
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4691274
+        }
+      ],
       "Current": false,
       "Date": "2024-07-21T16:00:00+08:00",
       "ConditionalMatches": [],
@@ -3720,10 +4036,10 @@
     {
       "ID": 85,
       "Team1Acronym": "[Paw]FIood",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Akermo",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -3737,7 +4053,6 @@
         "[Paw]FIood",
         "Akermo"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -3749,7 +4064,7 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2024-07-21T23:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
