@@ -3015,8 +3015,8 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Current": true,
+      "Date": "2024-07-27T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 600,
@@ -3039,7 +3039,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-28T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 600,
@@ -3062,7 +3062,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-28T08:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 600,
@@ -3085,7 +3085,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-28T10:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 600,
@@ -3338,7 +3338,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-28T11:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2400,
@@ -3355,7 +3355,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-25T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2400,
@@ -3372,7 +3372,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-27T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2400,
@@ -3389,7 +3389,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-25T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2400,
@@ -3408,7 +3408,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-26T10:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3431,7 +3431,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-27T10:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3454,7 +3454,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-24T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3477,7 +3477,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-24T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3500,7 +3500,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-26T11:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3523,7 +3523,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-26T10:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3546,7 +3546,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-24T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3563,19 +3563,21 @@
       "ID": 92,
       "Team1Acronym": "-fm777-",
       "Team1Score": null,
+      "Team2Acronym": "rurudo1o1o",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T16:00:00+08:00",
+      "Date": "2024-07-24T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
         "Y": 1860
       },
       "Acronyms": [
-        "-fm777-"
+        "-fm777-",
+        "rurudo1o1o"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 7
@@ -4058,13 +4060,64 @@
     {
       "ID": 93,
       "Team1Acronym": "lovely_hyahya",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "rurudo1o1o",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4691309
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 3189234
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4605212
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2382593
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3189234
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2486497
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3271022
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4691309
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4691305
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4691274
+        }
+      ],
+      "Current": false,
       "Date": "2024-07-21T23:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -7763,8 +7816,677 @@
       "Description": "",
       "BestOf": 13,
       "BanCount": 1,
-      "Beatmaps": [],
-      "StartDate": "2024-07-27T16:00:00+08:00",
+      "Beatmaps": [
+        {
+          "ID": 4702643,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 4702643,
+            "DifficultyName": "[4K] Remilia",
+            "BPM": 150.0,
+            "Length": 144000.0,
+            "StarRating": 5.02,
+            "TotalObjectCount": 2765,
+            "Metadata": {
+              "Title": "Ena (Cut Ver.)",
+              "title_unicode": "Ena (Cut Ver.)",
+              "Artist": "-45",
+              "artist_unicode": "-45",
+              "Author": {
+                "OnlineID": 10500832,
+                "Username": "[Crz]xz1z1z",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "mcnc osu!mania chinese national cup 2024 yoshikawa45 bloodymalie akito yoshikawa dva d'va;;;;;;;;5 amagasa higasa featured artist fa electronic instrumental marathon",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2218581/covers/cover@2x.jpg?1721582094",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2218581/covers/card@2x.jpg?1721582094",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2218581/covers/list@2x.jpg?1721582094"
+            }
+          }
+        },
+        {
+          "ID": 4702646,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 4702646,
+            "DifficultyName": "[4K] yd & xz's QSNM 1.05x (252bpm)",
+            "BPM": 252.0,
+            "Length": 212000.0,
+            "StarRating": 5.92,
+            "EndTimeObjectCount": 1,
+            "TotalObjectCount": 4515,
+            "Metadata": {
+              "Title": "Noumen Break (katagiri Remix)",
+              "title_unicode": "能面break (かたぎり Remix)",
+              "Artist": "sHimaU",
+              "artist_unicode": "sHimaU",
+              "Author": {
+                "OnlineID": 10500832,
+                "Username": "[Crz]xz1z1z",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "yueast 2018 mcnc osu!mania chinese national cup 2024 a fact of life breakcore mashcore jcore j-core amenpunk metal hardcore japanese english electronic",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 6.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2218583/covers/cover@2x.jpg?1721582242",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2218583/covers/card@2x.jpg?1721582242",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2218583/covers/list@2x.jpg?1721582242"
+            }
+          }
+        },
+        {
+          "ID": 4703542,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 4703542,
+            "DifficultyName": "[4K] Machina",
+            "BPM": 150.0,
+            "Length": 124000.0,
+            "StarRating": 5.17,
+            "TotalObjectCount": 2312,
+            "Metadata": {
+              "Title": "Sewing Machine",
+              "title_unicode": "Sewing Machine",
+              "Artist": "yak_won",
+              "artist_unicode": "yak_won",
+              "Author": {
+                "OnlineID": 7825227,
+                "Username": "FcEazy",
+                "CountryString": "Unknown"
+              },
+              "Source": "EZ2DJ AEIC",
+              "tags": "original sound track : 4cd ~spiral~ square pixels",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 8.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2218979/covers/cover@2x.jpg?1721643050",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2218979/covers/card@2x.jpg?1721643050",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2218979/covers/list@2x.jpg?1721643050"
+            }
+          }
+        },
+        {
+          "ID": 4702587,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 4702587,
+            "DifficultyName": "[4K] hi19 & Mina's Challenge 1.15x",
+            "BPM": 152.58,
+            "Length": 156000.0,
+            "StarRating": 4.75,
+            "TotalObjectCount": 2426,
+            "Metadata": {
+              "Title": "Oh Yeah",
+              "title_unicode": "Oh Yeah",
+              "Artist": "Yello",
+              "artist_unicode": "Yello",
+              "Author": {
+                "OnlineID": 11817622,
+                "Username": "SunApple",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "hi19hi19 pack 5 streams and memes minaciousgrace",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.4,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1967963/covers/cover@2x.jpg?1721579724",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1967963/covers/card@2x.jpg?1721579724",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1967963/covers/list@2x.jpg?1721579724"
+            }
+          }
+        },
+        {
+          "ID": 3982182,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 3982182,
+            "DifficultyName": "[4K] One Way Street 1.2x (180bpm)",
+            "BPM": 180.0,
+            "Length": 109000.0,
+            "StarRating": 5.1,
+            "EndTimeObjectCount": 32,
+            "TotalObjectCount": 1737,
+            "Metadata": {
+              "Title": "Me & U",
+              "title_unicode": "Me & U",
+              "Artist": "siqlo",
+              "artist_unicode": "siqlo",
+              "Author": {
+                "OnlineID": 9206093,
+                "Username": "elexire",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "and you",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1928218/covers/cover@2x.jpg?1676966492",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1928218/covers/card@2x.jpg?1676966492",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1928218/covers/list@2x.jpg?1676966492"
+            }
+          }
+        },
+        {
+          "ID": 4702662,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 4702662,
+            "DifficultyName": "[4K] Hard",
+            "BPM": 200.1,
+            "Length": 146000.0,
+            "StarRating": 4.94,
+            "EndTimeObjectCount": 2,
+            "TotalObjectCount": 2356,
+            "Metadata": {
+              "Title": "Rage Template",
+              "title_unicode": "Rage Template",
+              "Artist": "Dev/Null",
+              "artist_unicode": "Dev/Null",
+              "Author": {
+                "OnlineID": 28156707,
+                "Username": "0DZ0",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "mcnc osu!mania chinese national cup 2024 monster of cock rock disco",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2218594/covers/cover@2x.jpg?1721583683",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2218594/covers/card@2x.jpg?1721583683",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2218594/covers/list@2x.jpg?1721583683"
+            }
+          }
+        },
+        {
+          "ID": 4702582,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 4702582,
+            "DifficultyName": "[4K] Dismay, Dismay! Light has faded and left us in dismay!",
+            "BPM": 231.0,
+            "Length": 133000.0,
+            "StarRating": 5.76,
+            "EndTimeObjectCount": 771,
+            "TotalObjectCount": 2322,
+            "Metadata": {
+              "Title": "Sentinel",
+              "title_unicode": "Sentinel",
+              "Artist": "BilliumMoto",
+              "artist_unicode": "BilliumMoto",
+              "Author": {
+                "OnlineID": 14095291,
+                "Username": "AelSan",
+                "CountryString": "Unknown"
+              },
+              "Source": "Cosmic Radio 2024",
+              "tags": "宇宙电台 2024 electronic english hybrid ln",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2218561/covers/cover@2x.jpg?1721579418",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2218561/covers/card@2x.jpg?1721579418",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2218561/covers/list@2x.jpg?1721579418"
+            }
+          }
+        },
+        {
+          "ID": 4702597,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 4702597,
+            "DifficultyName": "[4K] Fate",
+            "BPM": 160.0,
+            "Length": 116000.0,
+            "StarRating": 5.72,
+            "EndTimeObjectCount": 679,
+            "TotalObjectCount": 1788,
+            "Metadata": {
+              "Title": "Arianrhod",
+              "title_unicode": "Arianrhod",
+              "Artist": "LeaF",
+              "artist_unicode": "LeaF",
+              "Author": {
+                "OnlineID": 10333739,
+                "Username": "[Crz]sunnyxxy",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "mcnc osu!mania chinese national cup 2024 touhou",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.2,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2218565/covers/cover@2x.jpg?1721579893",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2218565/covers/card@2x.jpg?1721579893",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2218565/covers/list@2x.jpg?1721579893"
+            }
+          }
+        },
+        {
+          "ID": 4702586,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 4702586,
+            "DifficultyName": "[4K] iridescence",
+            "BPM": 175.0,
+            "Length": 158000.0,
+            "StarRating": 5.46,
+            "EndTimeObjectCount": 984,
+            "TotalObjectCount": 2105,
+            "Metadata": {
+              "Title": "Hauynite",
+              "title_unicode": "Hauynite",
+              "Artist": "RYOQUCHA & CS4W",
+              "artist_unicode": "RYOQUCHA & CS4W",
+              "Author": {
+                "OnlineID": 8521723,
+                "Username": "MyZterioN-",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "mcnc osu!mania chinese national cup 2024 quarterfinals qf hybrid hb lanota electronic instrumental dynamix",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.3,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.7,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2218563/covers/cover@2x.jpg?1721579539",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2218563/covers/card@2x.jpg?1721579539",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2218563/covers/list@2x.jpg?1721579539"
+            }
+          }
+        },
+        {
+          "ID": 3588553,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 3588553,
+            "DifficultyName": "[4K] Helium",
+            "BPM": 258.1,
+            "Length": 199000.0,
+            "StarRating": 5.06,
+            "EndTimeObjectCount": 2100,
+            "TotalObjectCount": 2413,
+            "Metadata": {
+              "Title": "Floating Away",
+              "title_unicode": "Floating Away",
+              "Artist": "paraoka feat. haru*nya",
+              "artist_unicode": "paraoka feat. haru*nya",
+              "Author": {
+                "OnlineID": 13712190,
+                "Username": "chxu",
+                "CountryString": "Unknown"
+              },
+              "Source": "マテリアル",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.57,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1549666/covers/cover@2x.jpg?1653714038",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1549666/covers/card@2x.jpg?1653714038",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1549666/covers/list@2x.jpg?1653714038"
+            }
+          }
+        },
+        {
+          "ID": 4702607,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 4702607,
+            "DifficultyName": "[4K] Densitortion (200bpm)",
+            "BPM": 200.0,
+            "Length": 129000.0,
+            "StarRating": 5.93,
+            "EndTimeObjectCount": 2414,
+            "TotalObjectCount": 2458,
+            "Metadata": {
+              "Title": "Distortion (feat. Alissa White-Gluz) (Cut Ver.)",
+              "title_unicode": "Distortion (feat. Alissa White-Gluz) (Cut Ver.)",
+              "Artist": "BABYMETAL",
+              "artist_unicode": "BABYMETAL",
+              "Author": {
+                "OnlineID": 13953619,
+                "Username": "YuEast 2018",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "mcnc osu!mania chinese national cup 2024 metal galaxy su-metal suzuka nakamoto 中元 すず香 moa kikuchi 菊地 最愛 rock japanese ln long note longnote density",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.4,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2218569/covers/cover@2x.jpg?1721580284",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2218569/covers/card@2x.jpg?1721580284",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2218569/covers/list@2x.jpg?1721580284"
+            }
+          }
+        },
+        {
+          "ID": 4556321,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 4556321,
+            "DifficultyName": "[4K] Wonderlands",
+            "BPM": 192.0,
+            "Length": 194000.0,
+            "StarRating": 6.22,
+            "EndTimeObjectCount": 2045,
+            "TotalObjectCount": 2545,
+            "Metadata": {
+              "Title": "Peaceful+Piece",
+              "title_unicode": "Peaceful+Piece",
+              "Artist": "Mono.",
+              "artist_unicode": "Mono.",
+              "Author": {
+                "OnlineID": 6232458,
+                "Username": "[Crz]FolAH1217",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "ln long note mixed wildcard tech density",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2160663/covers/cover@2x.jpg?1721488848",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2160663/covers/card@2x.jpg?1721488848",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2160663/covers/list@2x.jpg?1721488848"
+            }
+          }
+        },
+        {
+          "ID": 4702611,
+          "Mods": "SV",
+          "BeatmapInfo": {
+            "OnlineID": 4702611,
+            "DifficultyName": "[4K] :another_you_u:",
+            "BPM": 175.0,
+            "Length": 138000.0,
+            "StarRating": 3.42,
+            "EndTimeObjectCount": 340,
+            "TotalObjectCount": 1313,
+            "Metadata": {
+              "Title": "DAWN (Cut Ver.)",
+              "title_unicode": "DAWN (Cut Ver.)",
+              "Artist": "Mylta",
+              "artist_unicode": "Mylta",
+              "Author": {
+                "OnlineID": 9194799,
+                "Username": "AlexDunk",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "techcore essence hardcore hitech electronic sv mcnc quarterfinals slider velocity reading osu!mania 4k chinese national cup 2024",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2218570/covers/cover@2x.jpg?1721580470",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2218570/covers/card@2x.jpg?1721580470",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2218570/covers/list@2x.jpg?1721580470"
+            }
+          }
+        },
+        {
+          "ID": 2989461,
+          "Mods": "SV",
+          "BeatmapInfo": {
+            "OnlineID": 2989461,
+            "DifficultyName": "[4K] Instinct",
+            "BPM": 132.0,
+            "Length": 117000.0,
+            "StarRating": 2.42,
+            "EndTimeObjectCount": 6,
+            "TotalObjectCount": 773,
+            "Metadata": {
+              "Title": "Reaction feat. Slyleaf",
+              "title_unicode": "Reaction feat. Slyleaf",
+              "Artist": "James Landino",
+              "artist_unicode": "James Landino",
+              "Author": {
+                "OnlineID": 1375479,
+                "Username": "Paturages",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "tech swing",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1454184/covers/cover@2x.jpg?1636238189",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1454184/covers/card@2x.jpg?1636238189",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1454184/covers/list@2x.jpg?1636238189"
+            }
+          }
+        },
+        {
+          "ID": 4702615,
+          "Mods": "DF",
+          "BeatmapInfo": {
+            "OnlineID": 4702615,
+            "DifficultyName": "[4K] Evening's Challenge 1.1x Edit (176bpm)",
+            "BPM": 176.0,
+            "Length": 197000.0,
+            "StarRating": 5.66,
+            "TotalObjectCount": 3021,
+            "Metadata": {
+              "Title": "Chambarising",
+              "title_unicode": "Chambarising",
+              "Artist": "t+pazolite with siromaru",
+              "artist_unicode": "t+pazolite with siromaru",
+              "Author": {
+                "OnlineID": 6949941,
+                "Username": "[Crz]Flandre",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2218572/covers/cover@2x.jpg?1721580920",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2218572/covers/card@2x.jpg?1721580920",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2218572/covers/list@2x.jpg?1721580920"
+            }
+          }
+        },
+        {
+          "ID": 4702631,
+          "Mods": "TB",
+          "BeatmapInfo": {
+            "OnlineID": 4702631,
+            "DifficultyName": "[4K] Alleyne x Lott x sunnyxxy // Phantasmic Signal",
+            "BPM": 260.0,
+            "Length": 377000.0,
+            "StarRating": 6.92,
+            "EndTimeObjectCount": 2687,
+            "TotalObjectCount": 6111,
+            "Metadata": {
+              "Title": "Kaze no Denwa",
+              "title_unicode": "Kaze no Denwa",
+              "Artist": "TWC Sound Team \"Xurv Stasis Rasufim\"",
+              "artist_unicode": "TWC Sound Team \"Xurv Stasis Rasufim\"",
+              "Author": {
+                "OnlineID": 11279273,
+                "Username": "[Crz]Alleyne",
+                "CountryString": "Unknown"
+              },
+              "Source": "osu!taiko World Cup 2024",
+              "tags": "風の電話 lott [crz]sunnyxxy xyris roər vizunavé sydosys toneix & scutoid rairiku spiralflip melónet mcnc osu!mania chinese national cup 2024 quarterfinals tiebreaker qftb osu! original featured artist fa electronic instrumental",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.4,
+              "ApproachRate": 10.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2218577/covers/cover@2x.jpg?1721581360",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2218577/covers/card@2x.jpg?1721581360",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2218577/covers/list@2x.jpg?1721581360"
+            }
+          }
+        }
+      ],
+      "StartDate": "2024-07-23T00:00:00+00:00",
       "Matches": [
         38,
         54,
