@@ -3009,14 +3009,14 @@
     {
       "ID": 38,
       "Team1Acronym": "Quotient",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "[GB]nyasun",
-      "Team2Score": null,
+      "Team2Score": 0,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
-      "Date": "2024-07-27T14:00:00+00:00",
+      "Current": false,
+      "Date": "2024-07-26T16:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 600,
@@ -3027,7 +3027,7 @@
         "[GB]nyasun"
       ],
       "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 54,
@@ -3039,7 +3039,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-28T07:00:00+00:00",
+      "Date": "2024-07-28T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 600,
@@ -3050,7 +3050,7 @@
         "tyrcs"
       ],
       "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 71,
@@ -3062,7 +3062,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-28T08:00:00+00:00",
+      "Date": "2024-07-28T16:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 600,
@@ -3073,7 +3073,7 @@
         "Croatian songs"
       ],
       "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 87,
@@ -3085,7 +3085,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-28T10:00:00+00:00",
+      "Date": "2024-07-24T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 600,
@@ -3096,7 +3096,7 @@
         "[GB]GanyuAngel"
       ],
       "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 46,
@@ -3338,31 +3338,34 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-28T11:00:00+00:00",
+      "Date": "2024-07-28T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2400,
         "Y": 300
       },
       "Acronyms": [],
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 56,
       "Team1Score": null,
+      "Team2Acronym": "[Crz]Reimu",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-25T13:00:00+00:00",
+      "Date": "2024-07-25T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2400,
         "Y": 780
       },
-      "Acronyms": [],
-      "PointsToWin": 7
+      "Acronyms": [
+        "[Crz]Reimu"
+      ],
+      "PointsToWin": 6
     },
     {
       "ID": 73,
@@ -3372,31 +3375,34 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T13:00:00+00:00",
+      "Date": "2024-07-27T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2400,
         "Y": 1260
       },
       "Acronyms": [],
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 89,
       "Team1Score": null,
+      "Team2Acronym": "-fm777-",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-25T12:00:00+00:00",
+      "Date": "2024-07-25T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2400,
         "Y": 1740
       },
-      "Acronyms": [],
-      "PointsToWin": 7
+      "Acronyms": [
+        "-fm777-"
+      ],
+      "PointsToWin": 6
     },
     {
       "ID": 35,
@@ -3408,7 +3414,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-26T10:00:00+00:00",
+      "Date": "2024-07-26T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3419,7 +3425,7 @@
         "9961"
       ],
       "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 43,
@@ -3431,7 +3437,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-27T10:00:00+00:00",
+      "Date": "2024-07-27T12:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3442,7 +3448,7 @@
         "Samyuan1216"
       ],
       "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 51,
@@ -3453,8 +3459,8 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2024-07-24T12:00:00+00:00",
+      "Current": true,
+      "Date": "2024-07-24T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3465,19 +3471,85 @@
         "[Crz]Riko"
       ],
       "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 59,
       "Team1Acronym": "[Crz]Reimu",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "[Crz]IsxI",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 2989461
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 4556321
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4703542
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3588553
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4556321
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702615
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702582
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2989461
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702586
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702611
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702597
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3982182
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702607
+        }
+      ],
       "Current": false,
-      "Date": "2024-07-24T07:00:00+00:00",
+      "Date": "2024-07-24T14:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3487,8 +3559,7 @@
         "[Crz]Reimu",
         "[Crz]IsxI"
       ],
-      "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 68,
@@ -3500,7 +3571,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-26T11:00:00+00:00",
+      "Date": "2024-07-26T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3511,7 +3582,7 @@
         "Shice2566"
       ],
       "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 76,
@@ -3523,7 +3594,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-26T10:00:00+00:00",
+      "Date": "2024-07-26T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3534,7 +3605,7 @@
         "Shenzouz"
       ],
       "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 84,
@@ -3546,7 +3617,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-24T12:00:00+00:00",
+      "Date": "2024-07-24T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3557,19 +3628,80 @@
         "[Paw]FIood"
       ],
       "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 92,
       "Team1Acronym": "-fm777-",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "rurudo1o1o",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 4702615
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4702607
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4703542
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3588553
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702607
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702615
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4556321
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702646
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702582
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3982182
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702586
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702643
+        }
+      ],
       "Current": false,
-      "Date": "2024-07-24T07:00:00+00:00",
+      "Date": "2024-07-24T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2600,
@@ -3579,8 +3711,7 @@
         "-fm777-",
         "rurudo1o1o"
       ],
-      "WinnerColour": "Blue",
-      "PointsToWin": 7
+      "PointsToWin": 6
     },
     {
       "ID": 36,
@@ -7814,7 +7945,7 @@
     {
       "Name": "Quarterfinals",
       "Description": "",
-      "BestOf": 13,
+      "BestOf": 11,
       "BanCount": 1,
       "Beatmaps": [
         {
@@ -8486,7 +8617,7 @@
           }
         }
       ],
-      "StartDate": "2024-07-23T00:00:00+00:00",
+      "StartDate": "2024-07-23T08:00:00+08:00",
       "Matches": [
         38,
         54,
