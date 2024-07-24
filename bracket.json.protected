@@ -3078,12 +3078,83 @@
     {
       "ID": 87,
       "Team1Acronym": "nyasunfanboy",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "[GB]GanyuAngel",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4703542
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 4702646
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2989461
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4702643
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702646
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702611
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702587
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3588553
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3982182
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4556321
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702662
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702607
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702582
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4703542
+        }
+      ],
       "Current": false,
       "Date": "2024-07-24T21:00:00+08:00",
       "ConditionalMatches": [],
@@ -3118,6 +3189,7 @@
     {
       "ID": 79,
       "Team1Score": null,
+      "Team2Acronym": "[GB]GanyuAngel",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -3129,7 +3201,9 @@
         "X": 800,
         "Y": 1480
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "[GB]GanyuAngel"
+      ],
       "PointsToWin": 7
     },
     {
@@ -3299,6 +3373,7 @@
     {
       "ID": 72,
       "Team1Score": null,
+      "Team2Acronym": "nyasunfanboy",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3310,7 +3385,9 @@
         "X": 2200,
         "Y": 1260
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "nyasunfanboy"
+      ],
       "PointsToWin": 7
     },
     {
@@ -3349,13 +3426,14 @@
     },
     {
       "ID": 56,
+      "Team1Acronym": "[Crz]Riko",
       "Team1Score": null,
       "Team2Acronym": "[Crz]Reimu",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2024-07-25T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3363,8 +3441,10 @@
         "Y": 780
       },
       "Acronyms": [
+        "[Crz]Riko",
         "[Crz]Reimu"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -3386,22 +3466,25 @@
     },
     {
       "ID": 89,
-      "Team1Score": null,
+      "Team1Acronym": "[Paw]FIood",
+      "Team1Score": 0,
       "Team2Acronym": "-fm777-",
-      "Team2Score": null,
+      "Team2Score": 0,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-07-25T20:00:00+08:00",
+      "Date": "2024-07-27T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2400,
         "Y": 1740
       },
       "Acronyms": [
+        "[Paw]FIood",
         "-fm777-"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -3452,14 +3535,85 @@
     },
     {
       "ID": 51,
-      "Team1Acronym": "[GB]Burger king",
-      "Team1Score": null,
-      "Team2Acronym": "[Crz]Riko",
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "[Crz]Riko",
+      "Team1Score": 6,
+      "Team2Acronym": "[GB]Burger king",
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4702611
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 4702587
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2989461
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4556321
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3588553
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702611
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702662
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702646
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702587
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702615
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702582
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4703542
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3982182
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702586
+        }
+      ],
+      "Current": false,
       "Date": "2024-07-24T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3467,10 +3621,9 @@
         "Y": 660
       },
       "Acronyms": [
-        "[GB]Burger king",
-        "[Crz]Riko"
+        "[Crz]Riko",
+        "[GB]Burger king"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -3610,12 +3763,78 @@
     {
       "ID": 84,
       "Team1Acronym": "[Crz]Nickname",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "[Paw]FIood",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 3588553
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4702597
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4702586
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4702587
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702662
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2989461
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702582
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3588553
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702597
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702615
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3982182
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702646
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702607
+        }
+      ],
       "Current": false,
       "Date": "2024-07-24T20:00:00+08:00",
       "ConditionalMatches": [],
