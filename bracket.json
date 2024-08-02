@@ -2819,12 +2819,73 @@
     {
       "ID": 38,
       "Team1Acronym": "Quotient",
-      "Team1Score": 0,
+      "Team1Score": 2,
       "Team2Acronym": "[GB]nyasun",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 4702611
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4702643
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2989461
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4702587
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3982182
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702607
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702662
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4703542
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702643
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702611
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702582
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702615
+        }
+      ],
       "Current": false,
       "Date": "2024-07-26T16:00:00+08:00",
       "ConditionalMatches": [],
@@ -2842,10 +2903,10 @@
     {
       "ID": 54,
       "Team1Acronym": "LiangFenFan",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "tyrcs",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -2865,10 +2926,10 @@
     {
       "ID": 71,
       "Team1Acronym": "-Veloce-",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Croatian songs",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -2882,16 +2943,15 @@
         "-Veloce-",
         "Croatian songs"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 87,
       "Team1Acronym": "nyasunfanboy",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "[GB]GanyuAngel",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -2910,36 +2970,48 @@
     },
     {
       "ID": 46,
+      "Team1Acronym": "[GB]nyasun",
       "Team1Score": null,
+      "Team2Acronym": "tyrcs",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2024-08-03T16:00:00+08:00",
+      "Current": true,
+      "Date": "2024-08-02T09:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
         "Y": 540
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "[GB]nyasun",
+        "tyrcs"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 79,
+      "Team1Acronym": "-Veloce-",
       "Team1Score": null,
+      "Team2Acronym": "[GB]GanyuAngel",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-08-03T16:00:00+08:00",
+      "Date": "2024-08-03T05:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 800,
         "Y": 1480
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "-Veloce-",
+        "[GB]GanyuAngel"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
@@ -3046,7 +3118,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-08-03T16:00:00+08:00",
+      "Date": "2024-08-04T06:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2000,
@@ -3063,7 +3135,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-08-03T16:00:00+08:00",
+      "Date": "2024-08-04T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2000,
@@ -3074,79 +3146,161 @@
     },
     {
       "ID": 39,
+      "Team1Acronym": "LiangFenFan",
       "Team1Score": null,
+      "Team2Acronym": "[GB]mmttyy233",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-08-03T16:00:00+08:00",
+      "Date": "2024-08-03T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2200,
         "Y": 300
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "LiangFenFan",
+        "[GB]mmttyy233"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 55,
+      "Team1Acronym": "Quotient",
       "Team1Score": null,
+      "Team2Acronym": "[Crz]Reimu",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-08-03T16:00:00+08:00",
+      "Date": "2024-08-03T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2200,
         "Y": 780
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "Quotient",
+        "[Crz]Reimu"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 72,
+      "Team1Acronym": "nyasunfanboy",
       "Team1Score": null,
+      "Team2Acronym": "[Crz]Xinyi2016",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-08-03T16:00:00+08:00",
+      "Date": "2024-08-03T11:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2200,
         "Y": 1260
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "nyasunfanboy",
+        "[Crz]Xinyi2016"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 88,
+      "Team1Acronym": "Croatian songs",
       "Team1Score": null,
+      "Team2Acronym": "[Paw]FIood",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2024-08-03T16:00:00+08:00",
+      "Date": "2024-08-03T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2200,
         "Y": 1740
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "Croatian songs",
+        "[Paw]FIood"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 40,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "[GB]mmttyy233",
+      "Team1Score": 6,
+      "Team2Acronym": "Samyuan1216",
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 3588553
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4702611
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4702607
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2989461
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702611
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3588553
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702615
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4556321
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702662
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702597
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3982182
+        }
+      ],
       "Current": false,
       "Date": "2024-07-28T19:00:00+08:00",
       "ConditionalMatches": [],
@@ -3154,15 +3308,19 @@
         "X": 2400,
         "Y": 300
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "[GB]mmttyy233",
+        "Samyuan1216"
+      ],
       "PointsToWin": 6
     },
     {
       "ID": 56,
-      "Team1Score": null,
+      "Team1Acronym": "[Crz]Riko",
+      "Team1Score": 0,
       "Team2Acronym": "[Crz]Reimu",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -3173,15 +3331,19 @@
         "Y": 780
       },
       "Acronyms": [
+        "[Crz]Riko",
         "[Crz]Reimu"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 73,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "[Crz]Xinyi2016",
+      "Team1Score": 6,
+      "Team2Acronym": "Mantozi",
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -3191,15 +3353,19 @@
         "X": 2400,
         "Y": 1260
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "[Crz]Xinyi2016",
+        "Mantozi"
+      ],
       "PointsToWin": 6
     },
     {
       "ID": 89,
-      "Team1Score": null,
+      "Team1Acronym": "[Paw]FIood",
+      "Team1Score": 6,
       "Team2Acronym": "-fm777-",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -3210,6 +3376,7 @@
         "Y": 1740
       },
       "Acronyms": [
+        "[Paw]FIood",
         "-fm777-"
       ],
       "PointsToWin": 6
@@ -3217,10 +3384,10 @@
     {
       "ID": 35,
       "Team1Acronym": "[GB]mmttyy233",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "9961",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -3234,18 +3401,88 @@
         "[GB]mmttyy233",
         "9961"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 43,
-      "Team1Acronym": "[GB]Tyris",
-      "Team1Score": null,
-      "Team2Acronym": "Samyuan1216",
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "Samyuan1216",
+      "Team1Score": 6,
+      "Team2Acronym": "[GB]Tyris",
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 2989461
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4702611
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3588553
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4702643
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702611
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2989461
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702615
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702582
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4702597
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702586
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4703542
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702662
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3982182
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4702631
+        }
+      ],
       "Current": false,
       "Date": "2024-07-27T12:00:00+08:00",
       "ConditionalMatches": [],
@@ -3254,22 +3491,21 @@
         "Y": 420
       },
       "Acronyms": [
-        "[GB]Tyris",
-        "Samyuan1216"
+        "Samyuan1216",
+        "[GB]Tyris"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 51,
       "Team1Acronym": "[GB]Burger king",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "[Crz]Riko",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2024-07-24T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3364,10 +3600,10 @@
     {
       "ID": 68,
       "Team1Acronym": "[Crz]Xinyi2016",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Shice2566",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -3381,16 +3617,15 @@
         "[Crz]Xinyi2016",
         "Shice2566"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 76,
       "Team1Acronym": "Mantozi",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Shenzouz",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -3404,16 +3639,15 @@
         "Mantozi",
         "Shenzouz"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 84,
       "Team1Acronym": "[Crz]Nickname",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "[Paw]FIood",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -8372,8 +8606,762 @@
       "Description": "",
       "BestOf": 13,
       "BanCount": 1,
-      "Beatmaps": [],
-      "StartDate": "2024-08-03T16:00:00+08:00",
+      "Beatmaps": [
+        {
+          "ID": 4713754,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 4713754,
+            "DifficultyName": "[4K] Elekton's 1789 1.05x (135bpm)",
+            "BPM": 135.45,
+            "Length": 205000.0,
+            "StarRating": 5.0,
+            "EndTimeObjectCount": 10,
+            "TotalObjectCount": 3208,
+            "Metadata": {
+              "Title": "22:41",
+              "title_unicode": "22:41",
+              "Artist": "Danger",
+              "artist_unicode": "Danger",
+              "Author": {
+                "OnlineID": 6949941,
+                "Username": "[Crz]Flandre",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "synthwave taiko 太鼓 osutrainer",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.6,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2222975/covers/cover@2x.jpg?1722267646",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2222975/covers/card@2x.jpg?1722267646",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2222975/covers/list@2x.jpg?1722267646"
+            }
+          }
+        },
+        {
+          "ID": 4713713,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 4713713,
+            "DifficultyName": "[4K] Hanabi x1.05",
+            "BPM": 136.5,
+            "Length": 131000.0,
+            "StarRating": 5.36,
+            "EndTimeObjectCount": 8,
+            "TotalObjectCount": 2705,
+            "Metadata": {
+              "Title": "WAVE",
+              "title_unicode": "WAVE",
+              "Artist": "Hanatan",
+              "artist_unicode": "花たん",
+              "Author": {
+                "OnlineID": 13953619,
+                "Username": "YuEast 2018",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "mcnc osu!mania chinese national cup 2024 niki japanese pop vocaloid cover yurica jumpstream js osutrainer",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 5.7,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2222958/covers/cover@2x.jpg?1722266602",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2222958/covers/card@2x.jpg?1722266602",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2222958/covers/list@2x.jpg?1722266602"
+            }
+          }
+        },
+        {
+          "ID": 4713767,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 4713767,
+            "DifficultyName": "[4K] Twilight of the Gods 1.05x (258bpm)",
+            "BPM": 258.3,
+            "Length": 280000.0,
+            "StarRating": 5.47,
+            "TotalObjectCount": 5977,
+            "Metadata": {
+              "Title": "Alice Ragnarok",
+              "title_unicode": "アリスラグナロク",
+              "Artist": "Saitama Saisyu Heiki",
+              "artist_unicode": "埼玉最終兵器",
+              "Author": {
+                "OnlineID": 11279273,
+                "Username": "[Crz]Alleyne",
+                "CountryString": "Unknown"
+              },
+              "Source": "大戦国ランス",
+              "tags": "s.s.h ssh rance dai sengoku metal instrumental ponbot anime girl anime_girl jungkyuyoung natsume shiki natsume_shiki scub domino scubdomino [keqing] 8972308 dsg opening op full version last boss 4wc 4 digit world cup final tb osutrainer",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.4,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2222984/covers/cover@2x.jpg?1722267868",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2222984/covers/card@2x.jpg?1722267868",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2222984/covers/list@2x.jpg?1722267868"
+            }
+          }
+        },
+        {
+          "ID": 4713752,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 4713752,
+            "DifficultyName": "[4K] Vampire",
+            "BPM": 154.0,
+            "Length": 113000.0,
+            "StarRating": 5.16,
+            "TotalObjectCount": 2110,
+            "Metadata": {
+              "Title": "Millarca (Cut Ver.)",
+              "title_unicode": "Millarca (Cut Ver.)",
+              "Artist": "-45",
+              "artist_unicode": "-45",
+              "Author": {
+                "OnlineID": 10500832,
+                "Username": "[Crz]xz1z1z",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "mcnc osu!mania chinese national cup 2024 semifinals chordjack sf cj malice call d'va;;;;;;;;5 dva5 electronic instrumental akito yoshikawa45",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2222973/covers/cover@2x.jpg?1722267639",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2222973/covers/card@2x.jpg?1722267639",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2222973/covers/list@2x.jpg?1722267639"
+            }
+          }
+        },
+        {
+          "ID": 4586157,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 4586157,
+            "DifficultyName": "[4K] all-nighter",
+            "BPM": 260.0,
+            "Length": 144000.0,
+            "StarRating": 5.69,
+            "EndTimeObjectCount": 49,
+            "TotalObjectCount": 2855,
+            "Metadata": {
+              "Title": "Toy Boxxxx",
+              "title_unicode": "Toy Boxxxx",
+              "Artist": "doth",
+              "artist_unicode": "dotη",
+              "Author": {
+                "OnlineID": 8521723,
+                "Username": "MyZterioN-",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.3,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2172621/covers/cover@2x.jpg?1716651119",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2172621/covers/card@2x.jpg?1716651119",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2172621/covers/list@2x.jpg?1716651119"
+            }
+          }
+        },
+        {
+          "ID": 3090602,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 3090602,
+            "DifficultyName": "[4K] Extra 1.2x (276bpm)",
+            "BPM": 276.0,
+            "Length": 112000.0,
+            "StarRating": 5.6,
+            "EndTimeObjectCount": 22,
+            "TotalObjectCount": 2281,
+            "Metadata": {
+              "Title": "Kaisei Joshou Hallelujah",
+              "title_unicode": "快晴・上昇・ハレルーヤ",
+              "Artist": "JINDOU.",
+              "artist_unicode": "JINDOU.",
+              "Author": {
+                "OnlineID": 2520707,
+                "Username": "Shoegazer",
+                "CountryString": "Unknown"
+              },
+              "Source": "遊☆戯☆王デュエル モンスターズGX",
+              "tags": "fire weather rising hallelujah yugioh duel monsters gx jrock rock wiosna",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/710997/covers/cover@2x.jpg?1627729232",
+              "card@2x": "https://assets.ppy.sh/beatmaps/710997/covers/card@2x.jpg?1627729232",
+              "list@2x": "https://assets.ppy.sh/beatmaps/710997/covers/list@2x.jpg?1627729232"
+            }
+          }
+        },
+        {
+          "ID": 4713764,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 4713764,
+            "DifficultyName": "[4K] hna's Deviation 1.05x (204bpm)",
+            "BPM": 203.7,
+            "Length": 129000.0,
+            "StarRating": 5.28,
+            "TotalObjectCount": 2319,
+            "Metadata": {
+              "Title": "Fluctuation",
+              "title_unicode": "Fluctuation",
+              "Artist": "Zekk",
+              "artist_unicode": "Zekk",
+              "Author": {
+                "OnlineID": 6949941,
+                "Username": "[Crz]Flandre",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "drumstep electronic instrumental neurofunk artcore osutrainer",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.2,
+              "ApproachRate": 5.4,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2222981/covers/cover@2x.jpg?1722267733",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2222981/covers/card@2x.jpg?1722267733",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2222981/covers/list@2x.jpg?1722267733"
+            }
+          }
+        },
+        {
+          "ID": 4714041,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 4714041,
+            "DifficultyName": "[4K] Electrify",
+            "BPM": 255.0,
+            "Length": 127000.0,
+            "StarRating": 6.17,
+            "EndTimeObjectCount": 888,
+            "TotalObjectCount": 2067,
+            "Metadata": {
+              "Title": "T_ritama Breaker",
+              "title_unicode": "T_ritama Breaker",
+              "Artist": "NIWASHI",
+              "artist_unicode": "庭師",
+              "Author": {
+                "OnlineID": 10333739,
+                "Username": "[Crz]sunnyxxy",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "庭師 niwashi hybrid mcnc",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2223094/covers/cover@2x.jpg?1722282813",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2223094/covers/card@2x.jpg?1722282813",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2223094/covers/list@2x.jpg?1722282813"
+            }
+          }
+        },
+        {
+          "ID": 4713689,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 4713689,
+            "DifficultyName": "[4K] FLAME",
+            "BPM": 176.0,
+            "Length": 116000.0,
+            "StarRating": 5.41,
+            "EndTimeObjectCount": 679,
+            "TotalObjectCount": 1770,
+            "Metadata": {
+              "Title": "Hellfire",
+              "title_unicode": "Hellfire",
+              "Artist": "Hommarju",
+              "artist_unicode": "Hommarju",
+              "Author": {
+                "OnlineID": 8660315,
+                "Username": "gzdongsheng",
+                "CountryString": "Unknown"
+              },
+              "Source": "SOUND VOLTEX II -infinite infection-",
+              "tags": "mcnc osu!mania chinese national cup 4k 2024 semifinals hybrid sf hb",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2222942/covers/cover@2x.jpg?1722265956",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2222942/covers/card@2x.jpg?1722265956",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2222942/covers/list@2x.jpg?1722265956"
+            }
+          }
+        },
+        {
+          "ID": 4417278,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 4417278,
+            "DifficultyName": "[4K] %underflow_error",
+            "BPM": 499.91,
+            "Length": 154000.0,
+            "StarRating": 6.69,
+            "EndTimeObjectCount": 859,
+            "TotalObjectCount": 2516,
+            "Metadata": {
+              "Title": "overdead.",
+              "title_unicode": "overdead.",
+              "Artist": "Frums + nitro",
+              "artist_unicode": "Frums + nitro",
+              "Author": {
+                "OnlineID": 5066305,
+                "Username": "ERA Imperial",
+                "CountryString": "Unknown"
+              },
+              "Source": "Arcaea",
+              "tags": "hybrid technical",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 9.3,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.6,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2105220/covers/cover@2x.jpg?1705273227",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2105220/covers/card@2x.jpg?1705273227",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2105220/covers/list@2x.jpg?1705273227"
+            }
+          }
+        },
+        {
+          "ID": 4713716,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 4713716,
+            "DifficultyName": "[4K] MAJOR COORD w/ sherweifa",
+            "BPM": 250.15,
+            "Length": 219000.0,
+            "StarRating": 6.61,
+            "EndTimeObjectCount": 3193,
+            "TotalObjectCount": 3338,
+            "Metadata": {
+              "Title": "MAJOR DEMON",
+              "title_unicode": "MAJOR DEMON",
+              "Artist": "Falcom Sound Team jdk",
+              "artist_unicode": "Falcom Sound Team jdk",
+              "Author": {
+                "OnlineID": 13953619,
+                "Username": "YuEast 2018",
+                "CountryString": "Unknown"
+              },
+              "Source": "ソーサリアン: 盗賊たちの塔より",
+              "tags": "[gb]sherweifa mcnc osu!mania chinese national cup 2024 ファルコム j.d.k. band 1 sorcerian: the tower of thieves",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2222959/covers/cover@2x.jpg?1722266645",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2222959/covers/card@2x.jpg?1722266645",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2222959/covers/list@2x.jpg?1722266645"
+            }
+          }
+        },
+        {
+          "ID": 4713694,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 4713694,
+            "DifficultyName": "[4K] ***************(Nerfed / 215bpm)",
+            "BPM": 215.0,
+            "Length": 144000.0,
+            "StarRating": 6.76,
+            "EndTimeObjectCount": 2115,
+            "TotalObjectCount": 2416,
+            "Metadata": {
+              "Title": "iiillluuuvvvUUU",
+              "title_unicode": "iiillluuuvvvUUU",
+              "Artist": "SOOOO",
+              "artist_unicode": "SOOOO",
+              "Author": {
+                "OnlineID": 9705896,
+                "Username": "Muses",
+                "CountryString": "Unknown"
+              },
+              "Source": "osu!",
+              "tags": "fa featured artist iluvu idm electronic japanese vocaloid kagamine rin 鏡音リン ln long note",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2222947/covers/cover@2x.jpg?1722395103",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2222947/covers/card@2x.jpg?1722395103",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2222947/covers/list@2x.jpg?1722395103"
+            }
+          }
+        },
+        {
+          "ID": 4713703,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 4713703,
+            "DifficultyName": "[4K] KOHA NE NE NE",
+            "BPM": 240.0,
+            "Length": 124000.0,
+            "StarRating": 6.62,
+            "EndTimeObjectCount": 1711,
+            "TotalObjectCount": 2012,
+            "Metadata": {
+              "Title": "the EmpErroR",
+              "title_unicode": "the EmpErroR",
+              "Artist": "sasakure.UK",
+              "artist_unicode": "sasakure.UK",
+              "Author": {
+                "OnlineID": 14095291,
+                "Username": "AelSan",
+                "CountryString": "Unknown"
+              },
+              "Source": "maimai FiNALE",
+              "tags": "king of performai the 3rd kop sega sound team ささくれp 閃鋼のブリューナク senko no buryunaku mr.wonderland maimai all perfect collection memorial soundtrack pandora boxxx plus 麒麟 ガラテアの螺旋 chunithm new plus!! プロジェクトセカイ カラフルステージ! feat. 初音ミク project sekai colorful stage! feat. hatsune miku ツツミヒデアキ 电棍otto 我叫瞬哥qaq 电棍：the emperror",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2222952/covers/cover@2x.jpg?1722266543",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2222952/covers/card@2x.jpg?1722266543",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2222952/covers/list@2x.jpg?1722266543"
+            }
+          }
+        },
+        {
+          "ID": 3838235,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 3838235,
+            "DifficultyName": "[4K] Exposure to a downpour of sunlight and a thousand chords held in",
+            "BPM": 201.3,
+            "Length": 149000.0,
+            "StarRating": 6.52,
+            "EndTimeObjectCount": 1978,
+            "TotalObjectCount": 2346,
+            "Metadata": {
+              "Title": "Cathedral",
+              "title_unicode": "カシイドラル",
+              "Artist": "Sta feat. Ice",
+              "artist_unicode": "Sta feat. Ice",
+              "Author": {
+                "OnlineID": 16140674,
+                "Username": "Micleak",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.3,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1865981/covers/cover@2x.jpg?1668229237",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1865981/covers/card@2x.jpg?1668229237",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1865981/covers/list@2x.jpg?1668229237"
+            }
+          }
+        },
+        {
+          "ID": 4294644,
+          "Mods": "SV",
+          "BeatmapInfo": {
+            "OnlineID": 4294644,
+            "DifficultyName": "[4K] CHOKE",
+            "BPM": 120.0,
+            "Length": 129000.0,
+            "StarRating": 3.05,
+            "EndTimeObjectCount": 97,
+            "TotalObjectCount": 979,
+            "Metadata": {
+              "Title": "End Me",
+              "title_unicode": "End Me",
+              "Artist": "ZxNX as \"Delaina\"",
+              "artist_unicode": "ZxNX as \"Delaina\"",
+              "Author": {
+                "OnlineID": 4556538,
+                "Username": "Phukiir",
+                "CountryString": "Unknown"
+              },
+              "Source": "Phigros",
+              "tags": "glitch hop kalpa chiptune hardcore riddim trap breakbeat midtempo psytrance synthwave dubstep sv",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2055294/covers/cover@2x.jpg?1696176142",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2055294/covers/card@2x.jpg?1696176142",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2055294/covers/list@2x.jpg?1696176142"
+            }
+          }
+        },
+        {
+          "ID": 2067666,
+          "Mods": "SV",
+          "BeatmapInfo": {
+            "OnlineID": 2067666,
+            "DifficultyName": "[4K] Sleep",
+            "BPM": 60.0,
+            "Length": 121000.0,
+            "StarRating": 1.95,
+            "EndTimeObjectCount": 86,
+            "TotalObjectCount": 561,
+            "Metadata": {
+              "Title": "Chronon",
+              "title_unicode": "Chronon",
+              "Artist": "SlipGate",
+              "artist_unicode": "SlipGate",
+              "Author": {
+                "OnlineID": 5492871,
+                "Username": "[Crz]Crysarlene",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "omic osu mania 4k indonesia cup 2019 qualifier stage 1 in the groove rebirth 2 slipgate chronon",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.7,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.7,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/988436/covers/cover@2x.jpg?1577074564",
+              "card@2x": "https://assets.ppy.sh/beatmaps/988436/covers/card@2x.jpg?1577074564",
+              "list@2x": "https://assets.ppy.sh/beatmaps/988436/covers/list@2x.jpg?1577074564"
+            }
+          }
+        },
+        {
+          "ID": 4713772,
+          "Mods": "DF",
+          "BeatmapInfo": {
+            "OnlineID": 4713772,
+            "DifficultyName": "[4K] frolica's Frothiness [15] OD8",
+            "BPM": 166.0,
+            "Length": 285000.0,
+            "StarRating": 5.87,
+            "EndTimeObjectCount": 10,
+            "TotalObjectCount": 5694,
+            "Metadata": {
+              "Title": "Utakatayo Ikanaide",
+              "title_unicode": "うたかたよいかないで",
+              "Artist": "HIMEHINA",
+              "artist_unicode": "HIMEHINA",
+              "Author": {
+                "OnlineID": 6949941,
+                "Username": "[Crz]Flandre",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2222985/covers/cover@2x.jpg?1722267802",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2222985/covers/card@2x.jpg?1722267802",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2222985/covers/list@2x.jpg?1722267802"
+            }
+          }
+        },
+        {
+          "ID": 4713750,
+          "Mods": "TB",
+          "BeatmapInfo": {
+            "OnlineID": 4713750,
+            "DifficultyName": "[4K] EVOLUTION",
+            "BPM": 200.0,
+            "Length": 437000.0,
+            "StarRating": 7.5,
+            "EndTimeObjectCount": 2960,
+            "TotalObjectCount": 7529,
+            "Metadata": {
+              "Title": "TERRAFORGE",
+              "title_unicode": "TERRAFORGE",
+              "Artist": "Xeudo Code",
+              "artist_unicode": "Xeudo Code",
+              "Author": {
+                "OnlineID": 8660315,
+                "Username": "gzdongsheng",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "mcnc osu!mania chinese national cup 4k 2024 semifinals tiebreaker sftb electronic instrumental featured artist fa mappers' guild mg mpg full flavor electro dubstep speedcore hardcore hardpsy hi-tech color colour bass colorbass psytrance artcore metal 200step for 1k youtube subscribers",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.7,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2222971/covers/cover@2x.jpg?1722267567",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2222971/covers/card@2x.jpg?1722267567",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2222971/covers/list@2x.jpg?1722267567"
+            }
+          }
+        }
+      ],
+      "StartDate": "2024-08-02T08:00:00+00:00",
       "Matches": [
         46,
         79,
